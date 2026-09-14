@@ -1,7 +1,18 @@
 ---
 layout: default
-title: Education
+title: Education / 教育
 ---
+<section class="language-section language-en">
+<div class="language-label">English</div>
+<div class="section"><div class="container"><p class="eyebrow">Education</p><h1>Education & Teaching</h1>
+<p>We teach building materials and construction through material testing, measurement, construction planning, digital technologies, and hands-on making.</p>
+<h2>Kokushikan University</h2><ul><li>Experiential understanding of mechanical properties of building materials</li><li>Construction processes and the roles of contractors and site managers</li><li>QCDSE in building construction</li><li>Practical materials and construction measurement</li><li>Material design and construction planning from the site-management perspective</li><li>Emerging technologies including ICT, BIM, VR, and new materials</li></ul>
+<h2>Waseda University</h2><p>Experiential learning of the properties of major structural materials through testing, quality control, data organization, and reporting.</p>
+</div></div>
+</section>
+<hr class="language-divider">
+<section class="language-section language-ja">
+<div class="language-label">日本語</div>
 <div class="section"><div class="container"><p class="eyebrow">Education</p><h1>Education & Teaching</h1>
 <p>建築材料・施工を、材料試験、実測、施工計画、デジタル技術、実際のものづくりを通じて体験的に学ぶ教育を行っています。</p>
 
@@ -19,3 +30,4 @@ title: Education
 <h2>Educational Approach</h2>
 <p>「材料を知る」「施工を知る」「実際につくる」「デジタル技術で捉える」という複数の方法を組み合わせ、建築生産を総合的に理解することを重視しています。</p>
 </div></div>
+</section>

@@ -23,3 +23,7 @@ Works and Facilities are intentionally present as placeholder pages and can be p
 ## Publishing
 
 The intended repository name is `INDENlab.github.io`, which creates an organization site at `https://indenlab.github.io/` when GitHub Pages is enabled for the organization repository.
+
+
+## Language format
+All pages present English first and Japanese immediately afterward on the same page. The former `/en/` section has been removed.
