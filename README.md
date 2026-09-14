@@ -27,3 +27,7 @@ The intended repository name is `INDENlab.github.io`, which creates an organizat
 
 ## Language format
 All pages present English first and Japanese immediately afterward on the same page. The former `/en/` section has been removed.
+
+
+## Language format
+English and Japanese are paired by content block: each English paragraph/section is immediately followed by its Japanese counterpart.
