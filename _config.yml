@@ -1,11 +1,10 @@
-title: "Building Materials and Construction Laboratory"
+title: "INDEN Laboratory | Building Materials and Construction"
 description: "Building Materials and Construction Laboratory, Kokushikan University"
 url: "https://indenlab.github.io"
 baseurl: ""
-lang: "ja"
 markdown: kramdown
+theme: null
 plugins: []
 exclude:
-  - README.md
   - Gemfile
   - Gemfile.lock

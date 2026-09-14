@@ -1,7 +1,12 @@
 ---
 layout: default
-title: Education / 教育
+title: Education
 ---
-<div class="container bilingual-page">
-<p class="eyebrow">Education / 教育</p><div class="bilingual-block"><div class="lang-en"><p class="lang-tag">English</p><p>We teach building materials and construction through material testing, measurement, construction planning, digital technologies, and hands-on making.</p></div><div class="lang-ja"><p class="lang-tag">日本語</p><p>建築材料・施工を、材料試験、実測、施工計画、デジタル技術、実際のものづくりを通じて体験的に学ぶ教育を行っています。</p></div></div><div class="bilingual-block"><div class="lang-en"><p class="lang-tag">English</p><h2>Kokushikan University</h2><ul><li>Experiential understanding of mechanical properties of building materials</li><li>Construction processes and the roles of contractors and site managers</li><li>QCDSE in building construction</li><li>Practical materials and construction measurement</li><li>Material design and construction planning from the site-management perspective</li><li>Emerging technologies including ICT, BIM, VR, and new materials</li></ul></div><div class="lang-ja"><p class="lang-tag">日本語</p><h2>国士舘大学</h2><ul><li>建築材料に触れて力学的性質を実体験</li><li>建築が施工されるまでの流れと施工者・現場監督の役割</li><li>建築工事におけるQCDSE</li><li>材料・施工を実践的に学ぶ</li><li>現場管理者としての材料設計・工事計画</li><li>ICT、BIM、VR、新材料などの最先端技術</li></ul></div></div><div class="bilingual-block"><div class="lang-en"><p class="lang-tag">English</p><h2>Waseda University</h2><p>Experiential learning of the properties of major structural materials through testing, quality control, data organization, and reporting.</p></div><div class="lang-ja"><p class="lang-tag">日本語</p><h2>早稲田大学</h2><p>材料試験、品質管理、実験データの整理、レポート作成等を通じて、主要構造材料の性質を体験的に理解します。</p></div></div><div class="bilingual-block"><div class="lang-en"><p class="lang-tag">English</p><p>Our educational approach combines material knowledge, construction knowledge, hands-on making, and digital technologies to develop a comprehensive understanding of building production.</p></div><div class="lang-ja"><p class="lang-tag">日本語</p><p>「材料を知る」「施工を知る」「実際につくる」「デジタル技術で捉える」という複数の方法を組み合わせ、建築生産を総合的に理解することを重視しています。</p></div></div>
-</div>
+<div class="section"><div class="container"><p class="eyebrow">Education</p><h1>Teaching & Practical Education</h1>
+<div class="grid">
+<div class="card"><h3>建築材料に触れて力学的性質を実体験！</h3><p>コンクリート、鉄鋼材料、木材を対象にJISに準じた試験を行い、材料特性、実験法、機械器具、計算法等を実践的に学びます。</p><p class="meta">国士舘大学理工学部建築学系・2年生春期</p></div>
+<div class="card"><h3>建築が施工されるまでの流れを掴む</h3><p>建築工事の順序、地盤、構造体工事、施工図・矩計図、水平・角度・距離・三次元測量などを実践的に学びます。</p><p class="meta">国士舘大学理工学部建築学系・3年生秋期</p></div>
+<div class="card"><h3>QCDSEと工事計画</h3><p>品質・原価・工程・安全・環境を軸として、施工計画と現場管理について学びます。</p><p class="meta">国士舘大学理工学部建築学系・4年生春期</p></div>
+<div class="card"><h3>最先端の学びから未知を知る</h3><p>新材料、分析・評価技術、ICT、BIM、VR、マネジメント等を題材として、変化する建設産業に対応する技術者教育を行います。</p><p class="meta">国士舘大学大学院・建設工学</p></div>
+<div class="card"><h3>主要構造材料の特性を体験的に学ぶ</h3><p>材料試験、品質管理、データ整理、考察、技術報告書の作成を通じて、建築材料への理解と実践的な技術者能力を養います。</p><p class="meta">早稲田大学創造理工学部建築学科・2年生春学期</p></div>
+</div></div></div>

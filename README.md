@@ -1,33 +1,30 @@
 # INDEN Lab Website
 
-Building Materials and Construction Laboratory, Kokushikan University.
+**Building Materials and Construction Laboratory, Kokushikan University**
 
-## Purpose
+This repository is the source for the INDEN Laboratory website and is designed for GitHub Pages.
 
-This repository is the source for the laboratory website hosted with GitHub Pages.
+## Structure
 
-## Site structure
-
-- About
-- Research
-- Projects
-- Publications
-- Education
-- Works
-- Facilities
-- Members
-- Contact
-
-Works and Facilities are intentionally present as placeholder pages and can be populated later.
+- `index.md` — Home
+- `about.md` — Laboratory / PI
+- `research.md` — Research areas
+- `projects.md` — Research funding and activities
+- `publications.md` — Selected research outputs
+- `education.md` — Teaching and practical education
+- `works.md` — Works and making (placeholder)
+- `facilities.md` — Research facilities (placeholder)
+- `members.md` — Laboratory members
+- `contact.md` — Contact
 
 ## Publishing
 
-The intended repository name is `INDENlab.github.io`, which creates an organization site at `https://indenlab.github.io/` when GitHub Pages is enabled for the organization repository.
+The intended repository name is `INDENlab.github.io`. For a GitHub Organization site, enable **Settings → Pages → Build and deployment → GitHub Actions** after pushing this repository.
 
+The site uses a small custom Jekyll layout and CSS, so it does not depend on an external theme.
 
-## Language format
-All pages present English first and Japanese immediately afterward on the same page. The former `/en/` section has been removed.
+## Content policy
 
+Researcher information should be cross-checked against official Kokushikan University and Researchmap records. Do not add unverified publication metadata, funding information, photographs, logos, or third-party material without confirming the relevant rights.
 
-## Language format
-English and Japanese are paired by content block: each English paragraph/section is immediately followed by its Japanese counterpart.
+Works and Facilities are intentionally kept as placeholder pages and can be populated later without changing the site architecture.
