@@ -1,30 +1,12 @@
-# INDEN Lab Website
+# INDEN Laboratory Website
 
-**Building Materials and Construction Laboratory, Kokushikan University**
+GitHub Pages source for the INDEN Laboratory, Building Materials and Construction, Kokushikan University.
 
-This repository is the source for the INDEN Laboratory website and is designed for GitHub Pages.
+The site is English-first. Japanese text is provided selectively as supplementary information rather than as a parallel navigation system.
 
-## Structure
+- Site: https://indenlab.github.io/
+- Researcher profile: https://researchmap.jp/read0210010
+- University profile: https://www.kokushikan.ac.jp/research/researcher/inden_tatsuya/
+- GitHub organization: https://github.com/INDENlab
 
-- `index.md` — Home
-- `about.md` — Laboratory / PI
-- `research.md` — Research areas
-- `projects.md` — Research funding and activities
-- `publications.md` — Selected research outputs
-- `education.md` — Teaching and practical education
-- `works.md` — Works and making (placeholder)
-- `facilities.md` — Research facilities (placeholder)
-- `members.md` — Laboratory members
-- `contact.md` — Contact
-
-## Publishing
-
-The intended repository name is `INDENlab.github.io`. For a GitHub Organization site, enable **Settings → Pages → Build and deployment → GitHub Actions** after pushing this repository.
-
-The site uses a small custom Jekyll layout and CSS, so it does not depend on an external theme.
-
-## Content policy
-
-Researcher information should be cross-checked against official Kokushikan University and Researchmap records. Do not add unverified publication metadata, funding information, photographs, logos, or third-party material without confirming the relevant rights.
-
-Works and Facilities are intentionally kept as placeholder pages and can be populated later without changing the site architecture.
+Student names are intentionally omitted. Research claims and publication information should be checked against public primary sources before updates.

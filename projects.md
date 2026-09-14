@@ -2,24 +2,11 @@
 layout: default
 title: Projects
 ---
-<div class="section"><div class="container"><p class="eyebrow">Projects</p><h1>Research Projects & Activities</h1>
-<h2>External Research Funding</h2>
-<div class="grid">
-<div class="card"><h3>2025 · 土素材の3Dプリントによるポーラスリッチな乾燥固化れんがの開発</h3><p>公益財団法人土科学センター財団「2025年度研究助成」。土素材の3Dプリントによる非焼成れんがの開発に取り組みます。</p></div>
-<div class="card"><h3>2022 · 廃木材を用いた3Dプリント内装建材に関する基礎的研究</h3><p>公益財団法人住友財団「2022年度環境研究助成（一般研究）」。2025年には住友財団環境研究助成Excellent Researchとして表彰されています。</p></div>
-<div class="card"><h3>2021 · 立体視180度動画を用いたVR建設現場教材の開発</h3><p>公益財団法人カシオ科学振興財団「第39回（令和3年度）研究助成」。VR建設現場教材と学修効果の評価に関する研究です。</p></div>
-</div>
-<h2>Regional & Practical Activities</h2>
-<div class="card"><h3>地域の祭りにおけるやぐら製作</h3><p>2019年度から、世田谷区内の福祉施設との連携によるやぐらの製作・組立に取り組んでいます。施工実習を通じて、建築生産に必要な実践力を養う活動です。</p></div>
-<div class="card"><h3>空き家再生・地域連携</h3><p>既存住宅を対象とした改修・再生活動にも取り組み、地域の担い手との協働を通じて、建築改修と実践的な建築教育を接続しています。</p></div>
-<h2>Research Recognition</h2>
-<ul>
-<li>2026　日本建築学会 2025年度第96回関東支部研究発表会 若手優秀研究報告賞</li>
-<li>2026　国士舘大学 学術研究奨励賞</li>
-<li>2025　日本建築学会 2025年度大会（九州）情報システム技術委員会 若手優秀発表賞</li>
-<li>2025　ICFMA2024 Best Presentation Award</li>
-<li>2025　住友財団環境研究助成 Excellent Research</li>
-<li>2024　日本建築仕上学会 論文奨励賞</li>
-</ul>
-<p class="meta">研究費・受賞情報は国士舘大学の公開情報および大学研究者データベースで確認できる範囲を掲載しています。</p>
-</div></div>
+<div class="section"><div class="container"><p class="eyebrow">Projects</p><h1>Research Projects &amp; Recognition</h1><p>Selected research funding, awards, and regional or practical activities are presented below.</p><p class="ja-note">研究助成、受賞、地域・実践活動など、主要な活動を掲載しています。</p><h2>Research Funding</h2><div class="grid">
+<div class="card"><span class="tag">2025</span><h3>Development of Porous-Rich Dry-Setting Bricks by 3D Printing of Earthen Materials</h3><p>2025 research grant, Soil Science Center Foundation. Development of dry-setting bricks using 3D printing of earthen materials.</p><p class="ja-note">公益財団法人土科学センター財団「2025年度研究助成」。土素材の3Dプリントによる乾燥固化れんがの開発。</p></div>
+<div class="card"><span class="tag">2022</span><h3>Fundamental Study on 3D-Printed Interior Building Materials Using Waste Wood</h3><p>Sumitomo Foundation, FY2022 Environmental Research Grant. Fundamental research on interior materials made from waste wood by 3D printing.</p><p class="ja-note">公益財団法人住友財団「2022年度環境研究助成（一般研究）」。</p></div>
+<div class="card"><span class="tag">2021</span><h3>VR Construction-Site Learning Materials Using Stereoscopic 180-Degree Video</h3><p>Casio Science Promotion Foundation, 39th Research Grant. Development and evaluation of VR construction-site learning materials.</p><p class="ja-note">公益財団法人カシオ科学振興財団「第39回（令和3年度）研究助成」。</p></div>
+<div class="card"><span class="tag">2017–2019</span><h3>Humidity-Control Building Materials Using Sakurajima Volcanic Ash and Pyroclastic Materials</h3><p>Research supported by the Sumitomo Foundation, LIXIL Housing Research Foundation, and related programs.</p><p class="ja-note">住友財団、LIXIL住生活財団等の助成による地域資源を用いた調湿建材の開発。</p></div></div>
+<h2>Recognition</h2><div class="grid"><div class="card"><span class="tag">2025</span><h3>Sumitomo Foundation Environmental Research Grant — Excellent Research</h3><p>Recognized for the project on 3D-printed interior building materials using waste wood.</p><p class="ja-note">「廃木材を用いた3Dプリント内装建材に関する基礎的研究」。</p></div><div class="card"><span class="tag">2024</span><h3>Architectural Finishing Society Award — Encouragement for Research Papers</h3><p>For research on humidity-control building materials using unutilized regional resources.</p><p class="ja-note">日本建築仕上学会 学会賞・論文奨励賞「未利用の地域資源を用いた調湿機能建材に関する研究」。</p></div></div>
+<h2>Regional &amp; Practical Activities</h2><div class="grid"><div class="card"><h3>Festival Yagura Production</h3><p>Since 2019, the laboratory has continued collaborative production and assembly of festival yagura with a local welfare facility in Setagaya.</p><p class="ja-note">2019年度から世田谷区の地域施設と連携したやぐら製作・組立を継続。</p></div><div class="card"><h3>Vacant-House Renovation &amp; Regional Collaboration</h3><p>Renovation activities connect existing-building work, regional collaboration, and practical architectural education.</p><p class="ja-note">既存住宅の改修・再生活動を通じ、建築改修、地域連携、実践的教育を接続。</p></div></div>
+<p class="meta">Funding and award information is based primarily on publicly available Kokushikan University information. <a href="https://www.kokushikan.ac.jp/research/faculty_academic/">Kokushikan University academic information →</a></p></div></div>

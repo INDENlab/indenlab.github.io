@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://indenlab.github.io/sitemap.xml
