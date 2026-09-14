@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'ja' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}INDEN Lab</title>
+  <meta name="description" content="{{ site.description }}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+{% assign en = false %}{% if page.url contains '/en/' %}{% assign en = true %}{% endif %}
+<header class="site-header">
+  <div class="nav-wrap">
+    {% if en %}<a class="brand" href="{{ '/en/' | relative_url }}">{% else %}<a class="brand" href="{{ '/' | relative_url }}">{% endif %}<span>INDEN LAB</span><small>Building Materials & Construction</small></a>
+    <nav>
+      {% if en %}<a href="{{ '/' | relative_url }}">日本語</a><a href="{{ '/en/' | relative_url }}">English</a>
+      <a href="{{ '/en/about.html' | relative_url }}">About</a><a href="{{ '/en/research.html' | relative_url }}">Research</a><a href="{{ '/en/projects.html' | relative_url }}">Projects</a><a href="{{ '/en/publications.html' | relative_url }}">Publications</a><a href="{{ '/en/education.html' | relative_url }}">Education</a><a href="{{ '/en/works.html' | relative_url }}">Works</a><a href="{{ '/en/facilities.html' | relative_url }}">Facilities</a><a href="{{ '/en/members.html' | relative_url }}">Members</a><a href="{{ '/en/contact.html' | relative_url }}">Contact</a>
+      {% else %}<a href="{{ '/' | relative_url }}">日本語</a><a href="{{ '/en/' | relative_url }}">English</a>
+      <a href="{{ '/about.html' | relative_url }}">About</a><a href="{{ '/research.html' | relative_url }}">Research</a><a href="{{ '/projects.html' | relative_url }}">Projects</a><a href="{{ '/publications.html' | relative_url }}">Publications</a><a href="{{ '/education.html' | relative_url }}">Education</a><a href="{{ '/works.html' | relative_url }}">Works</a><a href="{{ '/facilities.html' | relative_url }}">Facilities</a><a href="{{ '/members.html' | relative_url }}">Members</a><a href="{{ '/contact.html' | relative_url }}">Contact</a>{% endif %}
+    </nav>
+  </div>
+</header>
+<main>{{ content }}</main>
+<footer class="site-footer"><div class="container"><strong>Building Materials and Construction Laboratory</strong><br>Kokushikan University · Architecture<br><span>© {{ 'now' | date: '%Y' }} T. INDEN Lab.</span></div></footer>
+</body>
+</html>
